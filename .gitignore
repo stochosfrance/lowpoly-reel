@@ -1,0 +1,8 @@
+node_modules/
+chs/
+frames/
+previews/
+out/
+voices/
+template/assets/logo.*
+template/assets/assistant-logo.svg

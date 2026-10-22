@@ -1,0 +1,13 @@
+{
+  "name": "lowpoly-reel-project",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "npx --yes @puppeteer/browsers install chrome-headless-shell@stable --path ./chs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "5.3.0",
+    "puppeteer-core": "25.16.0",
+    "three": "0.186.1"
+  }
+}
